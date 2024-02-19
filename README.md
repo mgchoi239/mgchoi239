@@ -1,6 +1,6 @@
 # Min's Repo 👨‍💻
 
-Hi, my name is Min, and I recently graduated from UC Berkeley with a major in Math 🧮 and a concentration in Computer Science 💻.
+Hi, my name is Min. I recently graduated from UC Berkeley with a major in Math 🧮 and a concentration in Computer Science 💻.
 
 My current focus revolves around backend development and database management. In my two most recent internship experiences, I had the chance to contribute to the development of backend APIs (Samsung Electronics) and an end-to-end service (Addepar). These opportunities allowed me to broaden my expertise to encompass both backend systems and their associated database management.
 
